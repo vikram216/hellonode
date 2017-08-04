@@ -10,3 +10,14 @@ Before jumping into the code, make sure you have a Google Account. If you don't 
   `git clone https://github.com/vikram216/hellonode.git`
 3. Change the directory to hellonode                
   `cd hellonode`
+  
+Test the code on sandbox provided in App Engine
+------------------------------------------------
+1. Install dependencies for this project by entering the following command:                 
+  `npm install`
+2. Run the start script            
+  `npm start`
+3. Click the Web preview button on the google cloud shell to open the deployed web app in a new tab
+
+You can see the Hello World message from the sample app displayed in the page.     
+In google cloud shell, press Ctrl+C to exit the web server.
