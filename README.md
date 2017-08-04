@@ -25,7 +25,7 @@ In google cloud shell, press Ctrl+C to exit the web server.
 Deploy and run Hello World on App Engine
 -----------------------------------------
 To deploy your app to the App Engine flexible environment:   
-1. Deploy the hellonode app by running the following command from the hellonode directory:
+1. Deploy the hellonode app by running the following command from the hellonode directory:        
   `gcloud app deploy`      
-2. Launch your browser and view the app at http://<YOUR_PROJECT_ID>.appspot.com, by running the following command:
+2. Launch your browser and view the app at http://<YOUR_PROJECT_ID>.appspot.com, by running the following command:      
   `gcloud app browse`
