@@ -18,7 +18,8 @@ Test the code on sandbox provided in App Engine
   `npm install`
 2. Run the start script            
   `npm start`
-3. Click the Web preview button on the google cloud shell to open the deployed web app in a new tab
+3. Click the Web preview button on the google cloud shell to open the deployed web app in a new tab              
+   ![Alt Text](https://github.com/vikram216/mygitimages/blob/master/gcp%20Web%20preview.gif)      
 
 You can see the Hello World message from the sample app displayed in the page.     
 In google cloud shell, press Ctrl+C to exit the web server.
